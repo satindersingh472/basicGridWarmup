@@ -1,0 +1,13 @@
+body{
+    border: 2px dashed grey;
+    display: grid;
+    align-items: center;
+    justify-items: center;
+    width: 500px;
+    margin: 0 auto;
+}
+header h1,main div,footer div{
+    align-items: center;
+    justify-items: center;
+    text-align: center;
+}
